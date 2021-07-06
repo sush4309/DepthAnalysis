@@ -1,0 +1,1 @@
+python monodepth_simple.py --image_path tokyo.jpg --checkpoint_path models/model_cityscapes
